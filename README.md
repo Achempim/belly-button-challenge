@@ -1,4 +1,5 @@
 # belly-button-challenge
+
 Project Overview
 This repository contains an interactive dashboard for exploring the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dashboard allows users to view data related to microbial species present in each sample through a bar chart, bubble chart, and demographic information panel.
 
